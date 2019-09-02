@@ -1,4 +1,6 @@
  #!/bin/bash
+ 
+ # Create a cron job and have the script execute every 5 seconds to prevent sophos from running
  sudo rm -R /Library/Sophos\ Anti-Virus/
  sudo rm -R /Library/Application\ Support/Sophos/
  sudo rm -R /Library/Preferences/com.sophos.*
