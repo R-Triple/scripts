@@ -1,5 +1,5 @@
 ##V. 1.2##
-##edited by Adam Latz 9/26/2018##
+##modified by Roger Rosas##
 
 @echo off
 echo Username=%UserName%
