@@ -1,4 +1,6 @@
-﻿Param(
+## Script to Query HP API and Batch check HP Warranty on Machines by Serial Numbers ##
+
+Param(
     [Parameter(Mandatory=$false)]
     [string]$apiKey = "**********",
     [Parameter(Mandatory=$false)]
