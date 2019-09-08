@@ -1,5 +1,5 @@
 ##V. 1.2##
-##modified by Roger Rosas##
+##modified by r-triple##
 
 @echo off
 echo Username=%UserName%
